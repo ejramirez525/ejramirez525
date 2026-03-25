@@ -76,41 +76,42 @@
   <b><img src="images/system-administration.png" alt="IT Administration" height="36" width="36" align="center" /> IT & Workspace Administration</b><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Platforms:</i><br><br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://workspace.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/google/google-icon.svg" alt="Google Workspace" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://admin.cloud.microsoft/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="Microsoft 365" width="36" height="36" /></a>
+  
 </div>
 
 <br>
 
 <div>
   <b><img src="images/code.png" alt="Other Tools" height="36" width="36" align="center" /> Other Development Tools</b><br><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="36" height="36" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36" /></a>
 </div>
 <br clear="all" />
 
 
 ## 🔬 Research Projects & Thesis
 <div>
-  <b><a href="https://github.com/ejramirez525/Gastropod-Identification-Using-YOLOv8-Instance-Segmentation">Development of Gastropods' Taxonomic Classification Using Deep Learning</a></b><br>
+  <b><a href="https://github.com/ejramirez525/Automated-Gastropod-Species-Classification-Using-Deep-Learning">Development of Gastropods' Taxonomic Classification Using Deep Learning</a></b><br>
   <i>Undergraduate Thesis</i> &nbsp;&nbsp;|&nbsp;&nbsp; 🏆 Best Thesis (BSCpE)<br>
   Department of Computer Studies Research Exhibit 2024
 </div>
 <br clear="all" />
 
 <div>
-  <b><a href="https://github.com/ejramirez525">Automated Height, Weight, and Body Mass Index Measurement System Using Load Cell and TOF10120 Laser Sensing Technology</a></b><br>
+  <b><a href="https://github.com/ejramirez525/Automated-Height-Weight-and-Body-Mass-Index-Measurement-System">Automated Height, Weight, and Body Mass Index Measurement System Using Load Cell and TOF10120 Laser Sensing Technology</a></b><br>
   <i>Special Project in Methods of Research</i> &nbsp;&nbsp;|&nbsp;&nbsp; 🎖️4th Placer<br>
   NEMSU Cantilan Research Festival 2023
 </div>
 <br clear="all" />
 
 <div>
-  <b><a href="https://github.com/ejramirez525">Development of a Typhoon-Resilient Smart Laboratory Access and Monitoring System Using Asynchronous Task Scheduling</a></b><br>
+  <b><a href="https://github.com/ejramirez525/Typhoon-Resilient-Smart-Laboratory-Access-and-Monitoring-System">Development of a Typhoon-Resilient Smart Laboratory Access and Monitoring System Using Asynchronous Task Scheduling</a></b><br>
   <i>Project in Real-Time Embedded Systems</i><br>
   Arduino Mega 2560, RFID, Sensors, and Actuators
 </div>
 <br clear="all" />
 
 <div>
-  <b><a href="https://github.com/ejramirez525">Simple Bird Species Classifier Architecture Based on Multi-Layer Perceptron (MLP)</a></b><br>
+  <b><a href="https://github.com/ejramirez525/Simple-Bird-Species-Classifier-Architecture-Based-on-Multi-Layer-Perceptron">Simple Bird Species Classifier Architecture Based on Multi-Layer Perceptron (MLP)</a></b><br>
   <i>Project in Neural Networks</i><br>
   Multi-Layer Perceptron, 200 Bird Species Dataset, PyTorch, and Google Colab
 </div>
