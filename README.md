@@ -12,7 +12,7 @@
   <img src="images/mu.png" alt="Mapua University" height="60" width="60" align="left" hspace="20" />
   <b>Master of Science in Computer Engineering (MSCpE)</b><br>
   Mapúa University<br>
-  <img src="images/calendar.svg" alt="calendar" height="15" width="15" /> 12/2025 - Present &nbsp;&nbsp;|&nbsp;&nbsp; <img src="images/location.svg" alt="location" height="15" width="15" /> Muralla St 1002 Manila, Philippines
+  <img src="images/calendar.svg" alt="calendar" height="15" width="15" /> 2025 - Present &nbsp;&nbsp;|&nbsp;&nbsp; <img src="images/location.svg" alt="location" height="15" width="15" /> Muralla St 1002 Manila, Philippines
 </div>
 <br clear="all" />
 
@@ -22,7 +22,7 @@
   <img src="images/nemsu.png" alt="NEMSU" height="60" width="60" align="left" hspace="20" />
   <b>Bachelor of Science in Computer Engineering</b><br>
   North Eastern Mindanao State University (NEMSU)<br>
-  <img src="images/calendar.svg" alt="calendar" height="15" width="15" /> 08/2020 - 06/2024 &nbsp;&nbsp;|&nbsp;&nbsp; <img src="images/location.svg" alt="location" height="15" width="15" /> Cantilan, Surigao del Sur
+  <img src="images/calendar.svg" alt="calendar" height="15" width="15" /> 2020 - 2024 &nbsp;&nbsp;|&nbsp;&nbsp; <img src="images/location.svg" alt="location" height="15" width="15" /> Cantilan, Surigao del Sur
 </div>
 <br clear="all" />
 
@@ -32,13 +32,16 @@
   <img src="images/cnhs.png" alt="CNHS" height="60" width="60" align="left" hspace="20" />
   <b>Science Technology Engineering and Mathematics (STEM)</b><br>
   Cantilan National High School<br>
-  <img src="images/calendar.svg" alt="calendar" height="15" width="15" /> 06/2018 - 03/2020 &nbsp;&nbsp;|&nbsp;&nbsp; <img src="images/location.svg" alt="location" height="15" width="15" /> Cantilan, Surigao del Sur
+  <img src="images/calendar.svg" alt="calendar" height="15" width="15" /> 2018 - 2020 &nbsp;&nbsp;|&nbsp;&nbsp; <img src="images/location.svg" alt="location" height="15" width="15" /> Cantilan, Surigao del Sur
 </div>
 <br clear="all" />
 
 
 
-## 🎯 Specializations
+## 🎯 Technical Competencies
+
+<br>
+
 
 <div>
   <b><img src="images/ai.png" alt="Deep Learning" height="36" width="36" align="center" style="border-radius: 50%;" /> Artificial Intelligence and Deep Learning</b><br>
@@ -127,7 +130,8 @@
 <br>
 
 <div align="center">
-  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DOSU0I1WGMLV" target="_blank" rel="noreferrer"><img src="certificates/deep_learning.png" alt="Deep Learning" width="280" hspace="10" vspace="10" /></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YW4NTHKL5BE7" target="_blank" rel="noreferrer"><img src="certificates/python_programming.png" alt="Python Programming" width="280" hspace="10" vspace="10" /></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZSJE4IQHWUSO" target="_blank" rel="noreferrer"><img src="certificates/cybersecurity.png" alt="Google Cybersecurity" width="280" hspace="10" vspace="10" /></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/L2FZFRSL9T36" target="_blank" rel="noreferrer"><img src="certificates/it_support.png" alt="Google IT Support" width="280" hspace="10" vspace="10" /></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ML9FYD3WCXZI" target="_blank" rel="noreferrer"><img src="certificates/matlab_programming.png" alt="MATLAB Programming" width="280" hspace="10" vspace="10" /></a>
+  <a href="https://www.coursera.org/account/accomplishments/specialization/certificate/DOSU0I1WGMLV" target="_blank" rel="noreferrer"><img src="certificates/deep_learning.png" alt="Deep Learning" width="280" hspace="10" vspace="10" /></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/YW4NTHKL5BE7" target="_blank" rel="noreferrer"><img src="certificates/python_programming.png" alt="Python Programming" width="280" hspace="10" vspace="10" /></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ZSJE4IQHWUSO" target="_blank" rel="noreferrer"><img src="certificates/cybersecurity.png" alt="Google Cybersecurity" width="280" hspace="10" vspace="10" /></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/L2FZFRSL9T36" target="_blank" rel="noreferrer"><img src="certificates/it_support.png" alt="Google IT Support" width="280" hspace="10" vspace="10" /></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/ML9FYD3WCXZI" target="_blank" rel="noreferrer"><img src="certificates/matlab_programming.png" alt="MATLAB Programming" width="280" hspace="10" vspace="10" 
+/></a><a href="https://www.coursera.org/account/accomplishments/specialization/certificate/K5HWNTW0BOD6" target="_blank" rel="noreferrer"><img src="certificates/c_programming.png" alt="C Programming with Linux" width="280" hspace="10" vspace="10" /></a>
 </div>
 
 
