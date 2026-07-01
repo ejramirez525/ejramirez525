@@ -5,6 +5,8 @@
 
 <p align="justify"> I am a Computer Engineering professional currently pursuing my Master's degree in Computer Engineering. My expertise lies in Edge AI, Computer Vision, and Embedded Systems Design. Experienced in deploying machine learning models on edge devices (e.g., Raspberry Pi), designing automated hardware systems with microcontrollers, and investigating deep learning architectures for real-world applications. I am passionate about bringing efficient, intelligent systems to life in the physical world.</p>
 
+<br>
+
  
 ## 🎓 Education
 
@@ -36,12 +38,22 @@
 </div>
 <br clear="all" />
 
+<br>
 
+## 👨‍💻 Work Experience
 
-## 🎯 Technical Competencies
+<div>
+  <img src="images/smcci.png" alt="Saint Micheal College, Cantilan, Incorporated" height="60" width="60" align="left" hspace="20" />
+  <b>Information and Communication Technology (ICT) Educator</b><br>
+  Saint Micheal College, Cantilan, Incorporated<br>
+  <img src="images/calendar.svg" alt="calendar" height="15" width="15" /> 2026 - Present &nbsp;&nbsp;|&nbsp;&nbsp; <img src="images/location.svg" alt="location" height="15" width="15" /> Cantilan, Surigao del Sur
+</div>
+<br clear="all" />
 
 <br>
 
+
+## 🎯 Technical Competencies
 
 <div>
   <b><img src="images/ai.png" alt="Deep Learning" height="36" width="36" align="center" style="border-radius: 50%;" /> Artificial Intelligence and Deep Learning</b><br>
@@ -89,7 +101,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub" width="36" height="36" style="margin-right: 10px;" /></a><a href="https://www.anaconda.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36" /></a>
 </div>
 <br clear="all" />
-
+<br>
 
 ## 🔬 Research Projects & Thesis
 <div>
@@ -119,11 +131,10 @@
   Multi-Layer Perceptron, 200 Bird Species Dataset, PyTorch, and Google Colab
 </div>
 <br clear="all" />
-
+<br>
 
 ## 📜 Certifications & Eligibility
 
-<br>
 
 <b>🎖️ Civil Service Professional Eligibility</b> (Civil Service Commission)
 
