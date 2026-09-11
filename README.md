@@ -6,9 +6,9 @@
 </div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ej-s-ramirez-19b1632b5/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.researchgate.net/profile/Ej-Ramirez-4" target="_blank"><img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate" alt="ResearchGate" /></a>
-  <a href="https://github.com/ejramirez525" target="_blank"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate" alt="ResearchGate" />
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub" />
 </p>
 
 <p align="center">
@@ -110,7 +110,9 @@
 ## 🎓 Education & Experience
 
 <div align="left">
-  <img src="images/mu.png" alt="Mapua University" width="50" height="50" align="left" hspace="12" />
+  <a href="https://www.mapua.edu.ph" target="_blank" rel="noreferrer">
+    <img src="images/mu.png" alt="Mapua University" width="50" height="50" align="left" hspace="12" />
+  </a>
   <b>Master of Science in Computer Engineering (MSCpE)</b><br>
   Mapúa University • 2025 - Present<br>
   <sub>Muralla St., Intramuros, Manila, Philippines</sub>
@@ -119,7 +121,9 @@
 <br clear="all" />
 
 <div align="left">
-  <img src="images/nemsu.png" alt="NEMSU" width="50" height="50" align="left" hspace="12" />
+  <a href="https://nemsu.edu.ph/" target="_blank" rel="noreferrer">
+    <img src="images/nemsu.png" alt="NEMSU" width="50" height="50" align="left" hspace="12" />
+  </a>
   <b>Bachelor of Science in Computer Engineering</b><br>
   North Eastern Mindanao State University • 2020 - 2024<br>
   <sub>Cantilan, Surigao del Sur</sub>
@@ -128,7 +132,9 @@
 <br clear="all" />
 
 <div align="left">
-  <img src="images/smcci.png" alt="SMCCI" width="50" height="50" align="left" hspace="12" />
+  <a href="https://smcci.edu.ph/" target="_blank" rel="noreferrer">
+    <img src="images/smcci.png" alt="SMCCI" width="50" height="50" align="left" hspace="12" />
+  </a>
   <b>ICT Educator</b><br>
   Saint Micheal College, Cantilan, Incorporated • 2026 - Present<br>
   <sub>Cantilan, Surigao del Sur</sub>
