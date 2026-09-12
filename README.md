@@ -31,7 +31,7 @@
 ## 🧑‍🏫 Teaching
 
 <div align="center">
-  <table>
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
     <tr>
       <td width="25%" align="center">
         <img src="https://img.icons8.com/color/96/java-coffee-cup-logo.png" alt="Java" width="52" /><br>
@@ -52,6 +52,28 @@
         <img src="https://img.icons8.com/color/96/css3.png" alt="CSS" width="52" /><br>
         <b>CSS</b><br>
         Styling and user experience
+      </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/color/96/javascript--v1.png" alt="JavaScript" width="52" /><br>
+        <b>JavaScript</b><br>
+        Interactive web development
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/color/96/net-framework.png" alt=".NET" width="52" /><br>
+        <b>.NET Technology</b><br>
+        Cross-platform application development
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/color/96/oracle-logo.png" alt="Oracle" width="52" /><br>
+        <b>Oracle</b><br>
+        Database systems and SQL
+      </td>
+      <td width="25%" align="center">
+        <img src="https://img.icons8.com/color/96/maintenance.png" alt="Computer Systems Servicing" width="52" /><br>
+        <b>Computer Systems Servicing</b><br>
+        Hardware maintenance and troubleshooting
       </td>
     </tr>
   </table>
